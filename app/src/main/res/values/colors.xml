@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#505050</color>
+
+    <color name="background">#E1DDE6</color>
+    <color name="primaryColor">#9F53FF</color>
+    <color name="secondaryColor">#B58BEA</color>
+
+    <color name="primaryTextField">#DBD0E9</color>
+    <color name="primaryCardView">#D1BBEC</color>
+
+</resources>
